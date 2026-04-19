@@ -15,7 +15,7 @@ Página de contato com formulário para atendimento
 
 Desenvolvedores
 
-Felipe Scarel
+Felipe Scarel,
 Guilherme Julio
 
 Localização
